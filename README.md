@@ -35,5 +35,5 @@ java Main
 After running the commands above, the application should start. You should be able to see each node sending and receiving values, up untill value 100 is reached.
 
 ## Students
-1. Andrei Marian Iosif
+1. Iosif-Andrei Marian
 2. Dan Adrian Solomonean
